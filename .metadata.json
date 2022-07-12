@@ -1,14 +1,1 @@
-[
-  {
-    "package": "Crossover",
-    "oncran": true
-  },
-  {
-    "package": "gMCP",
-    "oncran": true
-  },
-  {
-    "package": "mutoss",
-    "oncran": true
-  }
-]
+[]
