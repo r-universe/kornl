@@ -1,9 +1,5 @@
 [
   {
-    "package": "Crossover",
-    "oncran": true
-  },
-  {
     "package": "gMCP",
     "oncran": true
   },
