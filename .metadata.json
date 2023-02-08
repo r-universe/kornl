@@ -6,5 +6,8 @@
   {
     "package": "mutoss",
     "oncran": true
+  },
+  {
+    "package": "Crossover"
   }
 ]

@@ -15,3 +15,9 @@
 	shallow = true
 	subdir = pkg/mutoss
 	registered = true
+[submodule "Crossover"]
+	path = Crossover
+	url = https://github.com/kornl/crossover
+	shallow = true
+	subdir = pkg/Crossover
+	registered = true
