@@ -1,10 +1,10 @@
 [
   {
-    "package": "gMCP",
+    "package": "Crossover",
     "oncran": true
   },
   {
-    "package": "Crossover",
+    "package": "gMCP",
     "oncran": true
   },
   {
