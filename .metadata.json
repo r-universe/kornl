@@ -4,10 +4,11 @@
     "oncran": true
   },
   {
-    "package": "mutoss",
+    "package": "Crossover",
     "oncran": true
   },
   {
-    "package": "Crossover"
+    "package": "mutoss",
+    "oncran": true
   }
 ]

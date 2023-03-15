@@ -9,15 +9,15 @@
 	shallow = true
 	subdir = pkg/gMCP
 	registered = true
-[submodule "mutoss"]
-	path = mutoss
-	url = https://github.com/kornl/mutoss
-	shallow = true
-	subdir = pkg/mutoss
-	registered = true
 [submodule "Crossover"]
 	path = Crossover
 	url = https://github.com/kornl/crossover
 	shallow = true
 	subdir = pkg/Crossover
+	registered = true
+[submodule "mutoss"]
+	path = mutoss
+	url = https://github.com/kornl/mutoss
+	shallow = true
+	subdir = pkg/mutoss
 	registered = true
