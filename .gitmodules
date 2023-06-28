@@ -1,23 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "Crossover"]
 	path = Crossover
 	url = https://github.com/kornl/crossover
-	shallow = true
 	subdir = pkg/Crossover
-	registered = true
 [submodule "gMCP"]
 	path = gMCP
 	url = https://github.com/kornl/gmcp
-	shallow = true
 	subdir = pkg/gMCP
-	registered = true
 [submodule "mutoss"]
 	path = mutoss
 	url = https://github.com/kornl/mutoss
-	shallow = true
 	subdir = pkg/mutoss
-	registered = true
